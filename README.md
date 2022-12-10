@@ -45,7 +45,7 @@ Data augmentation (DA) has recently seen increased interest in graph mining and 
 
 ## &nbsp; <img src="assets/tongzhao.jpg" width="120" align=center> &nbsp; <img src="assets/kaizeding.jpg" width="120" align=center> &nbsp;  <img src="assets/weijin.png" width="120" align=center> &nbsp; <img src="assets/gang.jpg" width="120" align=center> &nbsp; <img src="assets/mengjiang.jpg" width="120" align=center> &nbsp; <img src="assets/neilshah.jpg" width="120" align=center>
 
-&nbsp; &nbsp; &nbsp; &nbsp; Tong Zhao &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Kaize Ding &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wei Jin &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Gang Liu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Meng Jiang &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Neil Shah
+&nbsp; &nbsp; &nbsp; &nbsp; Tong Zhao &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Kaize Ding &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wei Jin &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Gang Liu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Meng Jiang &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Neil Shah
 
 **[Tong Zhao](https://tzhao.io/)** is a Research Scientist in the Computational Social Science group at Snap Research. His research focuses on graph machine learning, representation learning, and data augmentation methods on graphs. His work has resulted in 20+ conference and journal publications, in top venues such as ICML, KDD, AAAI, WWW, TNNLS, etc. Several of his works were pioneer studies of GDA.
 
