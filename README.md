@@ -2,12 +2,19 @@
 
 ## Time and Location
 
-tbd
+April 27 - 29, 2023
 
-## Tutorial abstract [\[PDF\]]()
+Graduate Minneapolis Hotel | Minneapolis, Minnesota, U.S.
+
+(Detailed time and roon will be updated soon.)
+
+## Tutorial Abstract
 
 Data augmentation (DA) has recently seen increased interest in graph mining and graph machine learning (ML) owing to its ability to create additional training data and improving resulting trained model generalization. Despite these developments, the area is still quite underexplored, due to the challenges brought by complex, non-Euclidean structure of graph data, which limits the direct analogizing of traditional label-preserving augmentation operations in e.g. computer vision or natural language to this domain. In this tutorial, we present a comprehensive, systematic and structured survey of graph DA (GDA) approaches.  We first overview necessary background in graph machine learning, graph neural networks (GNNs), and DA.  Next, we present a breadth of literature, separated by heuristic augmentation approaches, learned augmentation approaches, and conclude. We anticipate this tutorial will be valuable for researchers in the graph ML domain, as well as practitioners utilizing these techniques for a wide variety of low-resource applications lacking significant labeled data.
 
+#### Tutorial Proposal: [\[PDF\]](assets/SDM23_Tutorial_Graph_Data_Augmentation.pdf)
+
+<!--
 #### If you find this tutorial helpful for your work, please kindly cite our paper.
 
 ```bibtex
@@ -15,8 +22,9 @@ Data augmentation (DA) has recently seen increased interest in graph mining and 
   todo
 }
 ```
+-->
 
-## Tutorial Materials
+## Materials
 
 **Survey:**
 
@@ -24,13 +32,14 @@ Data augmentation (DA) has recently seen increased interest in graph mining and 
 
 - Data Augmentation for Deep Graph Learning: A Survey. [\[pdf\]](https://arxiv.org/pdf/2202.08235.pdf)
 
-**Tutorial schedule:**
+**Tutorial schedule (tentative):**
 
-| Local time (GMT???TODO) | Content | Presenter |
+| Local time (CST) | Content | Presenter |
 | :---: | :---: | :---: |
-| 09:30-09:45 | Motivation and Introduction of Graph Data Augmentation | abc |
-| 09:30-09:45 | todo | abc |
-| 12:45-13:00 | Summary and Future Direction | tbd |
+| 09:30-10:00 | TBD | Tong Zhao |
+| 10:00-10:25 | TBD | Kaize Ding |
+| 10:35-11:00 | TBD | Wei Jin |
+| 11:00-11:30 | TBD | Neil Shah |
 
 ## Presenters and Contributors
 
