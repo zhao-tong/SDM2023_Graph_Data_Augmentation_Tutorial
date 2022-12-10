@@ -6,7 +6,7 @@ April 27 - 29, 2023
 
 Graduate Minneapolis Hotel | Minneapolis, Minnesota, U.S.
 
-(Detailed time and roon will be updated soon.)
+(Detailed time and room will be updated soon.)
 
 ## Tutorial Abstract
 
