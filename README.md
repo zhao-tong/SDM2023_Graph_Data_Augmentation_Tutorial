@@ -2,7 +2,7 @@
 
 ## Time and Location
 
-April 27 - 29, 2023
+10:15-12:15 am, April 27, 2023
 
 Graduate Minneapolis Hotel | Minneapolis, Minnesota, U.S.
 
@@ -36,10 +36,10 @@ Data augmentation (DA) has recently seen increased interest in graph mining and 
 
 | Local time (CST) | Content | Presenter |
 | :---: | :---: | :---: |
-| 09:30-10:00 | TBD | Tong Zhao |
-| 10:00-10:25 | TBD | Kaize Ding |
-| 10:35-11:00 | TBD | Wei Jin |
-| 11:00-11:30 | TBD | Neil Shah |
+| 10:15-10:45 | TBD | Tong Zhao |
+| 10:45-11:10 | TBD | Kaize Ding |
+| 11:20-11:45 | TBD | Wei Jin |
+| 11:45-12:15 | TBD | Neil Shah |
 
 ## Presenters and Contributors
 
