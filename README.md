@@ -28,7 +28,7 @@ Data augmentation (DA) has recently seen increased interest in graph mining and 
 
 **Survey:**
 
-- Graph Data Augmentation for Graph Machine Learning: A Survey. [\[PDF\]](https://arxiv.org/pdf/2202.08871.pdf)
+- Graph Data Augmentation for Graph Machine Learning: A Survey. [\[PDF\]](https://arxiv.org/pdf/2202.08871.pdf) [\[Reading list\]](https://github.com/zhao-tong/graph-data-augmentation-papers)
 
 - Data Augmentation for Deep Graph Learning: A Survey. [\[pdf\]](https://arxiv.org/pdf/2202.08235.pdf)
 
