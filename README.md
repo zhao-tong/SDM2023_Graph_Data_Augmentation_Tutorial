@@ -36,9 +36,9 @@ Data augmentation (DA) has recently seen increased interest in graph mining and 
 
 | Local time (CST) | Content | Presenter |
 | :---: | :---: | :---: |
-| 10:00-10:40 | Introduction and Rule-based Augmentation Approaches | Tong Zhao |
+| 10:00-10:40 | Introduction, Taxonomies, and Rule-based Augmentation Approaches | Tong Zhao |
 | 10:40-11:20 | Learned Augmentation Approaches | Wei Jin |
-| 11:20-12:00 | Application and Future Directions | Kaize Ding |
+| 11:20-12:00 | Application, Future Directions, and Conclusion | Kaize Ding |
 
 ## Presenters and Contributors
 
