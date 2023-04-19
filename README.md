@@ -2,11 +2,9 @@
 
 ## Time and Location
 
-10:15-12:15 am, April 27, 2023
+10:00-12:00 am, [Think 4](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=77187), April 27, 2023
 
 Graduate Minneapolis Hotel | Minneapolis, Minnesota, U.S.
-
-(Detailed time and room will be updated soon.)
 
 ## Tutorial Abstract
 
