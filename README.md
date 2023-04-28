@@ -32,11 +32,11 @@ Data augmentation (DA) has recently seen increased interest in graph mining and 
 
 **Tutorial schedule (tentative):**
 
-| Local time (CST) | Content | Presenter |
-| :---: | :---: | :---: |
-| 10:00-10:40 | Introduction, Taxonomies, and Rule-based Augmentation Approaches | Tong Zhao |
-| 10:40-11:20 | Learned Augmentation Approaches | Wei Jin |
-| 11:20-12:00 | Application, Future Directions, and Conclusion | Kaize Ding |
+| Local time (CST) | Content | Presenter | slides |
+| :---: | :---: | :---: | :---: |
+| 10:00-10:40 | Introduction and Rule-based Augmentation | Tong Zhao | [link](assets/2023-04-27_SDM_GDA_tutorial_p1_tong.pdf)
+| 10:40-11:20 | Learned Augmentation | Wei Jin | [link](assets/2023-04-27_SDM_GDA_tutorial_p2_wei.pdf)
+| 11:20-12:00 | Application and Future Directions | Kaize Ding | [link](assets/2023-04-27_SDM_GDA_tutorial_p3_kaize.pdf)
 
 ## Presenters and Contributors
 
